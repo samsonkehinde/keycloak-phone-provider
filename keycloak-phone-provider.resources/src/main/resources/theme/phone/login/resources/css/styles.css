@@ -1,0 +1,11 @@
+.login-pf body {
+    background: #FFFFFF;
+    background-size: cover;
+    height: 100%;
+}
+
+
+div.kc-logo-text {
+    background: url(../img/red-hat-logo.png) no-repeat center center;
+    background-size: contain;
+}
